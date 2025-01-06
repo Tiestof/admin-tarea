@@ -4,12 +4,12 @@ import { getFunctions } from "firebase/functions";
 
 //  configuracion  de conexion para firebase
 const firebaseConfig = {
-    apiKey: "AIzaSyBxrCEQ0iDaxBmdbw12gv6b_1fs3FKCV80",
-    authDomain: "gestion-tarea-773b9.firebaseapp.com",
+    apiKey: "Eliminada",
+    authDomain: "Eliminada",
     projectId: "gestion-tarea-773b9",
-    storageBucket: "gestion-tarea-773b9.firebasestorage.app",
-    messagingSenderId: "471240972536",
-    appId: "1:471240972536:web:7df3a0351762bef69f430d"
+    storageBucket: "Eliminada",
+    messagingSenderId: "Eliminada",
+    appId: "1:Eliminada"
 };
 
 const app = initializeApp(firebaseConfig);
